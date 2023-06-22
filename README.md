@@ -9,7 +9,7 @@ I've always been fascinated by the power of the web to connect people and provid
 ## 🚀 My Skills
 
 - Proficient in HTML, CSS, and JavaScript
-- Familiar with modern web development frameworks such as React and Angular
+- Proficient with modern web development frameworks such as React and Angular
 - Experienced in open source application development
 - Knowledgeable in software engineering best practices
 
